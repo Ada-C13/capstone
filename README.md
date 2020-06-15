@@ -64,7 +64,7 @@ If you do not turn in this form and have an advisory 1:1 meeting in time, you ma
 
 ### Capstone Concept Form
 
-Once you feel that your capstone concept is firm, submit your capstone concept with the [Capstone Concept Form](https://airtable.com/shry1bHeYlCsfnLIk) by **EOD Friday, June 26.
+Once you feel that your capstone concept is firm, submit your capstone concept with the [Capstone Concept Form](https://airtable.com/shry1bHeYlCsfnLIk) by **EOD Friday, June 26.**
 
 Then, the instructional team will review it and approve for you to start your capstone project on the first day of capstone.
 
