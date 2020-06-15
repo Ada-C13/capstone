@@ -56,15 +56,15 @@ Use the following resources to begin your research so you can make informed deci
 - Talk with the people around you! Mentors, TAs, instructors, family members, friends, etc.
 - Every other resource available to you!
 
-When you have 1-3 ideas for capstone, you'll need to record those ideas in the [Capstone Ideas Form]().
+When you have 1-3 ideas for capstone, you'll need to record those ideas in the [Capstone Ideas Form](https://docs.google.com/forms/d/e/1FAIpQLSfNm2PEWN7IgRCyJGhMSSakFWGSmoO_aexb9CO202I-YLEL6Q/viewform?usp=sf_link).
 
-Then, bring them to an advisory 1:1 meeting with an instructor. That advisory meeting will be used to talk through any questions of the idea, including questions around scale, risks, and feasability.
+Then, bring them to an advisory 1:1 meeting with an instructor by **EOD Wednesday, June 24**. That advisory meeting will be used to talk through any questions of the idea, including questions around scale, risks, and feasability.
 
 If you do not turn in this form and have an advisory 1:1 meeting in time, you may not be able to start the project on the first day of the capstone period.
 
 ### Capstone Concept Form
 
-Once you feel that your capstone concept is firm, submit your capstone concept with the [Capstone Concept Form]() by the due date.
+Once you feel that your capstone concept is firm, submit your capstone concept with the [Capstone Concept Form](https://airtable.com/shry1bHeYlCsfnLIk) by **EOD Friday, June 26.
 
 Then, the instructional team will review it and approve for you to start your capstone project on the first day of capstone.
 
