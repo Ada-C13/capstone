@@ -25,7 +25,6 @@ Required Capstone Material:
 - [Final Presentations Requirements](presentation.md)
 
 Other information we've compiled:
-- [What lectures will the instructors give during capstone?](lectures.md)
 - [Recommended Reflection Exercise](reflections.md)
 - [Useful tutorial sites](tutorials-sites.md)
 
