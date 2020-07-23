@@ -90,11 +90,10 @@ Three goals:
 ## Final Delivery
 The Capstone Project consists of the following components:
 - Completed application, live on the web
-- The source code of your project on GitHub, with:
+- The source code of your project on GitHub. The README in your repo should contain:
   - Clear documentation on how to setup/install your project
   - Any third-party dependencies or configuration required
   - A link to your Trello board
-  - A link to your Product Plan
 - If your capstone includes a hardware component, you must complete these additional requirements and put them on your GitHub repo:
   - Parts list, with links, for the device(s)
   - A markdown document with step-by-step instructions for assembling, verifying, and integrating the device(s) with your project
